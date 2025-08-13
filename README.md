@@ -16,3 +16,9 @@ Dataset: https://raw.githubusercontent.com/Sakshipatade/SocialMedia_Trend_Predic
 1. Open `jupyter.ipynb` in Google Colab.
 2. Upload the dataset to Colab.
 3. Run all cells to train the model and predict new hashtags
+
+## Example Output
+Hashtag #1 → Not Trending
+Hashtag #2 → Trending
+Hashtag #3 → Not Trending
+We need to provide hashtag value like(4000, 2000, 6000)
