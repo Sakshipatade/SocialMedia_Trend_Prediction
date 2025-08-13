@@ -13,6 +13,6 @@ Dataset: https://raw.githubusercontent.com/Sakshipatade/SocialMedia_Trend_Predic
 - **Accuracy:** ~90% on test set
 
 ## Usage
-1. Open `hashtag_trend_predictor.ipynb` in Google Colab.
+1. Open `jupyter.ipynb` in Google Colab.
 2. Upload the dataset to Colab.
 3. Run all cells to train the model and predict new hashtags
