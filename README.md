@@ -5,3 +5,5 @@ This project predicts whether a social media hashtag will become trending based 
 - 7-day growth rate (%)
 - Engagement rate
 - Verified user ratio
+
+Dataset: 
