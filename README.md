@@ -6,7 +6,7 @@ This project predicts whether a social media hashtag will become trending based 
 - Engagement rate
 - Verified user ratio
 
-Dataset: https://raw.githubusercontent.com/Sakshipatade/SocialMedia_Trend_Prediction/refs/heads/main/trendcast_mini.csv
+Dataset Link: https://raw.githubusercontent.com/Sakshipatade/SocialMedia_Trend_Prediction/refs/heads/main/trendcast_mini.csv
 
 ## Model
 - **Algorithm:** RandomForestClassifier
